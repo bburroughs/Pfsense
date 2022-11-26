@@ -30,6 +30,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.tiktok.com
 0.0.0.0 ads.tiktok.com
 
+# google
+0.0.0.0 play.google.com
+
 # MySpace
 0.0.0.0 a1-images.myspacecdn.com
 0.0.0.0 a1.ec-images.myspacecdn.com
